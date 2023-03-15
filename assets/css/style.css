@@ -1,0 +1,37 @@
+a {
+    color: currentColor;
+}
+.navbar-00 {
+    background-color: #2C3E50;
+    color: white;
+    text-decoration: none;
+}
+.navbar-hei {
+    height: 80px;
+}
+.start {
+    background-color: #1ABC9C;
+
+}
+.start-text {
+    color: #1ABC9C;
+}
+.pre-end {
+    background-color: #3A546D;
+}
+.end {
+    background-color: #2C3E50;
+}
+hr {
+    opacity: 1;
+}
+.mario div i{
+    border: 1px solid white;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 50px;
+    height: 50px;
+    aspect-ratio: 1;
+
+}
